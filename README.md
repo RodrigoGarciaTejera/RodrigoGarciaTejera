@@ -1,4 +1,4 @@
-I'm Rodrigo García-Tejera. 
+Hi! I'm Rodrigo García-Tejera. 
 
 I'm interested in diverse topic ranging from complex biological systems, stem cell biology to statistical physics, nonlinear physics and complex networks.  
 
