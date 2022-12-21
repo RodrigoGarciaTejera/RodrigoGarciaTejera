@@ -8,7 +8,7 @@ I find this venture pretty exciting, since it allows me to combine mathematical 
 
 I am also interested in physics education. [This](https://arxiv.org/abs/2212.06949) is our latest submitted article on how to use the smartphone as a portable laboratory for studying experimentally coupled oscillations. The corresponding repository with Python code for data analysis and simulation can be found [here](https://github.com/RodrigoGarciaTejera/WilberforcePendulum). 
 
-In the past I have done research in [experimental chaos](https://www.sciencedirect.com/science/article/abs/pii/S0960077913000672) , [synchronization of nonlinear oscillators](https://link.springer.com/article/10.1140/epjst/e2014-02295-6) , and my MSc thesis was on [network inference in neural systems](https://www.nature.com/articles/s41598-020-59198-7).    
+In the past I have done research in [experimental chaos](https://www.sciencedirect.com/science/article/abs/pii/S0960077913000672) , [synchronization of nonlinear oscillators](https://link.springer.com/article/10.1140/epjst/e2014-02295-6) , and my MSc thesis was on [network inference in neural systems](https://www.nature.com/articles/s41598-020-59198-7). I continue to be interested in these topics.     
 
 If you'd like to get in touch just drop me a message at rodrigo.garcia@ed.ac.uk, or on twitter @RGarciaTejera. 
 
