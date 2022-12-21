@@ -4,11 +4,11 @@ I'm interested in diverse topic ranging from complex biological systems, stem ce
 
 I'm currently doing a PhD in regenerative medicine at the [University of Edinburgh](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), specifically proposing and studying stochastic models of stem cell populations that include different regulatory mechanisms. We seek to better understand the signatures of different regulation strategies on the stem cell population dynaimcs, and learn how to distinguish their presence or absence from experimental data. 
 
-I find this venture pretty exciting, since it allows me to combine mathematical and computational tools I'm interested in, like analytical solutions to chemical master equations or stochastic simulations, to understand core questions in stem cell biology. You can find some of our work in [this article](https://royalsocietypublishing.org/doi/10.1098/rspa.2022.0376),[this repository](https://github.com/RodrigoGarciaTejera/vBD_simulations) and  [this one](https://github.com/RodrigoGarciaTejera/SpermStem). 
+I find this venture pretty exciting, since it allows me to combine mathematical and computational tools I'm interested in, like analytical solutions to chemical master equations or stochastic simulations, to understand core questions in stem cell biology. You can find some of our work in [this article](https://royalsocietypublishing.org/doi/10.1098/rspa.2022.0376) and [this repository](https://github.com/RodrigoGarciaTejera/vBD_simulations).
 
+We are currently using stochastic modelling to explore the role of stem cell heterogeneity in spermatogenesis, I'll be dropping resources for that in [this repository](https://github.com/RodrigoGarciaTejera/SpermStem). 
 
-
-I am also interested in physics education. [This](https://arxiv.org/abs/2212.06949) is our latest submitted article on how to use the smartphone as a portable laboratory for studying experimentally coupled oscillations. The corresponding repository with Python code for data analysis and simulations can be found [here](https://github.com/RodrigoGarciaTejera/WilberforcePendulum). 
+I am also interested in physics education. [This](https://arxiv.org/abs/2212.06949) is our latest submitted article on how to use smartphones as  portable laboratories for studying coupled oscillations. The corresponding repository with Python code for data analysis and simulations can be found [here](https://github.com/RodrigoGarciaTejera/WilberforcePendulum). 
 
 In the past I have done research in [experimental chaos](https://www.sciencedirect.com/science/article/abs/pii/S0960077913000672) , [synchronization of nonlinear oscillators](https://link.springer.com/article/10.1140/epjst/e2014-02295-6) , and my MSc thesis was on [network inference in neural systems](https://www.nature.com/articles/s41598-020-59198-7). My interest in these topics remains intact.     
 
