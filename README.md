@@ -4,7 +4,7 @@ I'm interested in diverse topic ranging from complex biological systems, stem ce
 
 I'm currently doing a PhD in regenerative medicine at the [University of Edinburgh](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), specifically proposing and studying stochastic models of stem cell populations that include different regulatory mechanisms. We seek to better understand the signatures of different regulation strategies on the stem cell population dynaimcs, and learn how to distinguish their presence or absence from experimental data. 
 
-I find this venture pretty exciting, since it allows me to combine mathematical and computational tools I'm interested in, like analytical solutions to chemical master equations or stochastic simulations, to understand core questions in stem cell biology. You can find some of our work in [this article](https://royalsocietypublishing.org/doi/10.1098/rspa.2022.0376) and [this repository](https://github.com/RodrigoGarciaTejera/vBD_simulations).
+I find this venture pretty exciting, since it allows me to combine mathematical and computational tools I'm interested in, like analytical solutions to chemical master equations or stochastic simulations, to approach core questions in stem cell biology. You can find some of our work in [this article](https://royalsocietypublishing.org/doi/10.1098/rspa.2022.0376) and [this repository](https://github.com/RodrigoGarciaTejera/vBD_simulations).
 
 We are currently using stochastic modelling to explore the role of stem cell heterogeneity in spermatogenesis, I'll be dropping resources for that in [this repository](https://github.com/RodrigoGarciaTejera/SpermStem). 
 
