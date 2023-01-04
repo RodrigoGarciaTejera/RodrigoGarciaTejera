@@ -11,10 +11,11 @@ I find this venture pretty exciting, since it allows me to combine mathematical 
 We are currently using stochastic modelling to explore the role of stem cell heterogeneity in spermatogenesis, I'll be dropping resources for that in [this repository](https://github.com/RodrigoGarciaTejera/SpermStem). 
 
 ### Other topics
+Physics education - [This](https://arxiv.org/abs/2212.06949) is our latest submitted article on how to use smartphones as  portable laboratories for studying coupled oscillations. Find Python code for data analysis and simulations [here](https://github.com/RodrigoGarciaTejera/WilberforcePendulum). 
 
-I am also interested in physics education. [This](https://arxiv.org/abs/2212.06949) is our latest submitted article on how to use smartphones as  portable laboratories for studying coupled oscillations. Find Python code for data analysis and simulations [here](https://github.com/RodrigoGarciaTejera/WilberforcePendulum). 
+Complex and neural networks - [Network inference in neural systems](https://www.nature.com/articles/s41598-020-59198-7). 
 
-In the past I have done research in [experimental chaos](https://www.sciencedirect.com/science/article/abs/pii/S0960077913000672) , [synchronization of nonlinear oscillators](https://link.springer.com/article/10.1140/epjst/e2014-02295-6) , and my MSc thesis was on [network inference in neural systems](https://www.nature.com/articles/s41598-020-59198-7). My interest in these topics remains intact.     
+Chaos and synchronisation -  [Chaos in circuits](https://www.sciencedirect.com/science/article/abs/pii/S0960077913000672), [synchronization of nonlinear oscillators](https://link.springer.com/article/10.1140/epjst/e2014-02295-6).
 
 ### Contact
 If you'd like to get in touch just drop me a message at rodrigo.garcia@ed.ac.uk, or on twitter @RGarciaTejera. 
