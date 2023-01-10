@@ -1,6 +1,6 @@
 Hi! I'm Rodrigo García-Tejera. 
 
-I'm interested in diverse topic ranging from complex biological systems, stem cell biology to statistical physics, nonlinear physics and complex networks.  
+I'm interested in topics ranging from complex biological systems, stem cell biology to statistical physics, nonlinear physics and complex networks.  
 
 ### Stochastic models of stem cell populations
 
