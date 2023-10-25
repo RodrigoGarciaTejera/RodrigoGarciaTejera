@@ -11,7 +11,7 @@ I find this venture pretty exciting, since it allows me to combine mathematical 
 We are currently using stochastic modelling to explore the role of stem cell heterogeneity in spermatogenesis, I'll be dropping resources for that in [this repository](https://github.com/RodrigoGarciaTejera/SpermStem). 
 
 ### Other topics
-Physics education - [This]([https://arxiv.org/abs/2212.06949](https://pubs.aip.org/aapt/ajp/article/91/11/873/2917275/Coupled-oscillations-of-the-Wilberforce-pendulum)) is our latest submitted article on how to use smartphones as  portable laboratories for studying coupled oscillations. Find Python code for data analysis and simulations [here](https://github.com/RodrigoGarciaTejera/WilberforcePendulum). 
+Physics education - [This](https://pubs.aip.org/aapt/ajp/article/91/11/873/2917275/Coupled-oscillations-of-the-Wilberforce-pendulum) is our latest submitted article on how to use smartphones as  portable laboratories for studying coupled oscillations. Find Python code for data analysis and simulations [here](https://github.com/RodrigoGarciaTejera/WilberforcePendulum). 
 
 Complex and neural networks - [Network inference in neural systems](https://www.nature.com/articles/s41598-020-59198-7). 
 
